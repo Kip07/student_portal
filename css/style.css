@@ -1,0 +1,26 @@
+body{
+	background:#ffff;
+}
+form{
+border:1px solid;
+border-color:#337ad7;
+width:300px;
+border-radius:5px;	
+
+}
+.header{
+	background:#337ad7;
+
+}
+.login{
+	background-color:#5cb85c;
+	height:35px;
+	margin-bottom:10px;
+	color:#fff;
+
+}
+.resetpassword{
+	height:35px;
+	background-color:#d9534f;
+	color:#fff;
+}
